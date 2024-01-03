@@ -12,10 +12,12 @@ Proficient `MERN` stack developer with a solid grasp of `Data structures` and `A
 - [random-dice-generator](https://ashokkhandhar.github.io/random-dice-generator/)
 - [Drum-Player](https://ashokkhandhar.github.io/Drum-Player/)
 - [Power-Houser](https://ashokkhandhar.github.io/power_house/)
+- [Calculator](https://ashokkhandhar.github.io/Calculater/)
   
-- [Banking-System](https://github.com/ashokkhandhar/Banking-System)
-- [Tic-Tac-Toe](https://github.com/ashokkhandhar/tic-tac-toe)
-- [Login-Registration](https://github.com/ashokkhandhar/Login-Registration-CPP)
+- [Banking-System-cpp](https://github.com/ashokkhandhar/Banking-System)
+- [Calculator-cpp](https://github.com/ashokkhandhar/Calculator-CPP)
+- [Tic-Tac-Toe-cpp](https://github.com/ashokkhandhar/tic-tac-toe-CPP)
+- [Login-Registration-cpp](https://github.com/ashokkhandhar/Login-Registration-CPP)
 
 ## Tech Stack:
 <p>
