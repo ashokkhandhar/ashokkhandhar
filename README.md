@@ -11,8 +11,10 @@ Proficient `MERN` stack developer with a solid grasp of `Data structures` and `A
 - [Wishlist-App](https://ashokkhandhar.github.io/Wishlist-App/)
 - [random-dice-generator](https://ashokkhandhar.github.io/random-dice-generator/)
 - [Drum-Player](https://ashokkhandhar.github.io/Drum-Player/)
+- [Form-Validation](https://ashokkhandhar.github.io/Form-Validation/)
 - [Power-Houser](https://ashokkhandhar.github.io/power_house/)
 - [Calculator](https://ashokkhandhar.github.io/Calculater/)
+- [QR-Code-Generator](https://github.com/ashokkhandhar/QR-Code-Generator)
   
 - [Banking-System-cpp](https://github.com/ashokkhandhar/Banking-System)
 - [Calculator-cpp](https://github.com/ashokkhandhar/Calculator-CPP)
