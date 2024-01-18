@@ -7,12 +7,15 @@ Proficient `MERN` stack developer with a solid grasp of `Data structures` and `A
 
 ## Works:
 
+- [E-commerce-app](https://ashokkhandhar.github.io/ecommerce-app/)
+- [Notes-app](https://notes-by-ak.netlify.app/)
 - [Simon-Game](https://ashokkhandhar.github.io/Simon-Game/)
 - [Wishlist-App](https://ashokkhandhar.github.io/Wishlist-App/)
 - [random-dice-generator](https://ashokkhandhar.github.io/random-dice-generator/)
 - [Drum-Player](https://ashokkhandhar.github.io/Drum-Player/)
 - [Form-Validation](https://ashokkhandhar.github.io/Form-Validation/)
 - [Power-Houser](https://ashokkhandhar.github.io/power_house/)
+- [Pricing-Table](https://ashokkhandhar.github.io/pricing-table/)
 - [Calculator](https://ashokkhandhar.github.io/Calculater/)
 - [QR-Code-Generator](https://github.com/ashokkhandhar/QR-Code-Generator)
   
